@@ -27,4 +27,4 @@ While there are a small number of potential issues with the above listed solutio
 ![LINKED](https://github.com/Bjorklundsamm/re.hearsal/blob/main/System-Design/examples/LINKEDIN.png)
 
 ###### Developed by:
-##### Samuel Bjorkund(https://github.com/Bjorklundsamm)
+##### Samuel Bjorkund(github.com/Bjorklundsamm)
