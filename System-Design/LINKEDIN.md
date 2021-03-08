@@ -24,7 +24,7 @@ The issue with our approach to this search is the exponential amount of data we'
 ## Wrapping up
 While there are a small number of potential issues with the above listed solution they mostly revolve around potential limitations such as noting being able to receiving the minimum required information to confirm or keeping the amount of processing power to a minimum. Due the to o(n) requirements of this search we can safely presume this to be the reason that linked does not track beyond sixth level connections.
 
-![LINKED](./LINKEDIN.PNG)
+![LINKED](https://github.com/Bjorklundsamm/re.hearsal/blob/main/System-Design/examples/LINKEDIN.png)
 
 ###### Developed by:
-##### Samuel Bjorkund(https://github.com/Bjorklundsamm)
+##### Samuel Bjorkund(github.com/Bjorklundsamm)
