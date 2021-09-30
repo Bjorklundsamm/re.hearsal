@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    </head>
+    <body ng-app="basicToDo">
+        <div ng-controller='mainController'>
+            <div ng-repeat="item in list">
+                <li> {{ item }} </li>
+            </div>
+            <input ng-model="newItem">
+            <button ng-click="addNewItem()">Submit</button>
+        </div>
+        <!--modules-->
+        <script src="./app/app.js"></script>
+        <!--controllers-->
+        <script src="controllers/mainController.js"></script>
+    </body>
+</html>
